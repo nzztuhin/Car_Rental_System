@@ -1,0 +1,21 @@
+1.After running the program login page will appear
+2.There will be two option sign up and log in.
+3.if click on sign up button then customer reg form will come
+  here customer can register.
+4.If want to log in .There is two options. Customer log in and Admin log in.
+5.Customer log in then customer form will come 
+example log:
+
+user name:abir
+password:boss
+
+6.here u can find a rent button if it click then all carlist will appear.
+7.here a customer can hire a car.
+8.if want to log in as Admin then example log: 
+
+username:tuhin
+password:1234
+
+9.here u canfind 3 button userlist,car Reg and rental list.
+
+Thank you
